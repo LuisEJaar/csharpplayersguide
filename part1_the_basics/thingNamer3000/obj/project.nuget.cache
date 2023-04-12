@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Lh5KSY4cZSxRdMJ4OpmAJkVLPXaGIYn43md4SGlVScyrcguBFLqwkFADH7LhA1DnkpfzNLpDufgQ16nU/My0Q==",
+  "success": true,
+  "projectFilePath": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\thingNamer3000\\thingNamer3000.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GK1frVGgG7HBZz/pTvcL/T0a/WdTPdQyRRa2N7Bk1WRlngLceGlXNBRuUXMsG8MasHVDsYxUWBCriZ6w6iHHw==",
+  "success": true,
+  "projectFilePath": "D:\\luisjgithub\\csharpplayersguide\\part1_the_basics\\TheMakingsOfAProgrammer\\TheMakingsOfAProgrammer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\jaarle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\bin\Debug\net6.0\thingNamer3000.exe
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\bin\Debug\net6.0\thingNamer3000.deps.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\bin\Debug\net6.0\thingNamer3000.runtimeconfig.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\bin\Debug\net6.0\thingNamer3000.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\bin\Debug\net6.0\thingNamer3000.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.csproj.AssemblyReference.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.AssemblyInfoInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.AssemblyInfo.cs
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.csproj.CoreCompileInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\refint\thingNamer3000.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\thingNamer3000.genruntimeconfig.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\thingNamer3000\obj\Debug\net6.0\ref\thingNamer3000.dll

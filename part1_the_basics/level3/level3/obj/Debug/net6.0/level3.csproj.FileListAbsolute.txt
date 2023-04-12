@@ -1,0 +1,15 @@
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\bin\Debug\net6.0\level3.exe
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\bin\Debug\net6.0\level3.deps.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\bin\Debug\net6.0\level3.runtimeconfig.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\bin\Debug\net6.0\level3.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\bin\Debug\net6.0\level3.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.csproj.AssemblyReference.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.GeneratedMSBuildEditorConfig.editorconfig
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.AssemblyInfoInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.AssemblyInfo.cs
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.csproj.CoreCompileInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\refint\level3.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\level3.genruntimeconfig.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\level3\level3\obj\Debug\net6.0\ref\level3.dll

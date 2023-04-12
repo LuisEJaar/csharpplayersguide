@@ -1,0 +1,15 @@
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\bin\Debug\net6.0\ConsolasAndTelim.exe
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\bin\Debug\net6.0\ConsolasAndTelim.deps.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\bin\Debug\net6.0\ConsolasAndTelim.runtimeconfig.json
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\bin\Debug\net6.0\ConsolasAndTelim.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\bin\Debug\net6.0\ConsolasAndTelim.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.csproj.AssemblyReference.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.AssemblyInfoInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.AssemblyInfo.cs
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.csproj.CoreCompileInputs.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\refint\ConsolasAndTelim.dll
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.pdb
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ConsolasAndTelim.genruntimeconfig.cache
+D:\luisjgithub\csharpplayersguide\part1_the_basics\ConsolasAndTelim\obj\Debug\net6.0\ref\ConsolasAndTelim.dll
